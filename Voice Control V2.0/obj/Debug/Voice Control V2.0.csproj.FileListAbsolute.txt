@@ -1,0 +1,9 @@
+C:\Users\Deepak Gautam\Documents\Visual Studio 2012\Projects\Voice Control V2.0\Voice Control V2.0\bin\Debug\Voice Control V2.0.exe.config
+C:\Users\Deepak Gautam\Documents\Visual Studio 2012\Projects\Voice Control V2.0\Voice Control V2.0\bin\Debug\Voice Control V2.0.exe
+C:\Users\Deepak Gautam\Documents\Visual Studio 2012\Projects\Voice Control V2.0\Voice Control V2.0\bin\Debug\Voice Control V2.0.pdb
+C:\Users\Deepak Gautam\Documents\Visual Studio 2012\Projects\Voice Control V2.0\Voice Control V2.0\obj\Debug\Voice Control V2.0.csprojResolveAssemblyReference.cache
+C:\Users\Deepak Gautam\Documents\Visual Studio 2012\Projects\Voice Control V2.0\Voice Control V2.0\obj\Debug\Voice_Control_V2._0.Form1.resources
+C:\Users\Deepak Gautam\Documents\Visual Studio 2012\Projects\Voice Control V2.0\Voice Control V2.0\obj\Debug\Voice_Control_V2._0.Properties.Resources.resources
+C:\Users\Deepak Gautam\Documents\Visual Studio 2012\Projects\Voice Control V2.0\Voice Control V2.0\obj\Debug\Voice Control V2.0.csproj.GenerateResource.Cache
+C:\Users\Deepak Gautam\Documents\Visual Studio 2012\Projects\Voice Control V2.0\Voice Control V2.0\obj\Debug\Voice Control V2.0.exe
+C:\Users\Deepak Gautam\Documents\Visual Studio 2012\Projects\Voice Control V2.0\Voice Control V2.0\obj\Debug\Voice Control V2.0.pdb
